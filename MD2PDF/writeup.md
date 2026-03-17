@@ -104,3 +104,11 @@ Answer:
 ```
 flag{1f4a2b6ffeaf4707c43885d704eaee4b}
 ```
+
+## 🧠 Summary
+
+- HTML injection in PDF rendering  
+- server-side request capability confirmed  
+- accessed internal service on localhost  
+- bypassed restricted `/admin` endpoint  
+- retrieved flag via internal endpoint exposure  
