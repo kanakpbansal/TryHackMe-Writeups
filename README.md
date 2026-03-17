@@ -11,6 +11,7 @@ notes, methods, and things learned while solving them.
 # Walkthroughs
 | # | Room Name | Difficulty | Type |Description | Room Type |
 |:---:|:---:|:---:|---|---|---|
+| 1 | [Juicy Details](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Juicy%20Details/writeup.md) | Easy | Log Analysis |Analyze logs from a breached juice shop environment | `Challenge` |
 
 
 
