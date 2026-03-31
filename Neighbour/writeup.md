@@ -48,3 +48,22 @@ Answer:
 ```
 flag{66be95c478473d91a5358f2440c7af1f}
 ```
+<br>
+
+# 🧠 Summary
+
+- inspected page source to identify hidden credentials  
+- logged in using guest account  
+- analyzed URL parameters for potential manipulation  
+- identified IDOR vulnerability in `user` parameter  
+- modified parameter from `guest` to `admin`  
+- gained unauthorized access to admin profile  
+- retrieved flag from admin page
+
+
+<br>
+
+# Visual Walkthrough
+
+A visual version of this challenge (with screenshots) is available on Medium:  
+[View on Medium](https://medium.com/@kanakpbansal/neighbour-walkthrough-on-tryhackme-833d97c826c3)
