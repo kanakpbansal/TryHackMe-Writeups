@@ -102,3 +102,10 @@ flag{2477ef02448ad9156661ac40a6b8862e}
 - Tested out-of-range values
 - Accessed hidden endpoint using MD5(0)
 - Successfully retrieved the flag
+
+<br>
+
+# Visual Walkthrough
+
+A visual version of this challenge (with screenshots) is available on Medium:  
+[View on Medium](https://medium.com/@kanakpbansal/corridor-walkthrough-tryhackme-cd048e73054d)
