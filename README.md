@@ -15,7 +15,7 @@ notes, methods, and things learned while solving them.
 | 2 | [MD2PDF](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/MD2PDF/writeup.md) | Easy | HTML Injection | Exploit HTML injection to access internal admin endpoint | `Challenge` |
 | 3 | [Dev Diaries](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Dev%20Diaries/writeup.md) | Easy | OSINT | OSINT-based investigation of subdomains and commits | `Challenge` |
 | 4 | [Neighbour](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Neighbour/writeup.md) | Easy | IDOR |Exploit a direct object reference to access another user's profile and retrieve the flag | `Challenge` |
-
+| 5 | [Corridor](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Corridor/writeup.md) | Easy | IDOR | Analyze predictable hashed endpoints and exploit IDOR to access hidden rooms and retrieve the flag | `Challenge` |
 
 
 ## ⚡ Approach
