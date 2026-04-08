@@ -18,10 +18,13 @@ notes, methods, and things learned while solving them.
 | 4 | [Neighbour](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Neighbour/writeup.md) | Easy | IDOR |Exploit a direct object reference to access another user's profile and retrieve the flag | `Challenge` |
 | 5 | [Corridor](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Corridor/writeup.md) | Easy | IDOR | Analyze predictable hashed endpoints and exploit IDOR to access hidden rooms and retrieve the flag | `Challenge` |
 | 6 | [Library](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Library/writeup.md) | Easy | Boot2Root (Privilege Escalation + Enumeration) | Brute-forced SSH with Hydra and escalated to root via Python module hijacking | `Challenge` |
-| 7 | [Have A Break](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Have%20a%20Break/writeup.md) | Medium | Digital Forensics + OSINT | A digital forensics + OSINT challenge to identify an insider behind a cargo theft | `Challenge` |
+| 7 | [Brute It](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Brute%20It/writeup.md) | Easy | Brute Force+Privilege Escalastion | Perform brute-force attacks, crack credentials, and escalate privileges to gain root access | `Guided CTF` |
+| 8 | [Have A Break](https://github.com/kanakpbansal/TryHackMe-Writeups/blob/main/Have%20a%20Break/writeup.md) | Medium | Digital Forensics + OSINT | A digital forensics + OSINT challenge to identify an insider behind a cargo theft | `Challenge` |
 
 
 
+<br>
+<br>
 
 ## ⚡ Approach
 
